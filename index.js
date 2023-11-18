@@ -1,6 +1,6 @@
 // console.log("Senior Full Stack Developer");
 
-const contacts = require("./db/contacts");
+const contacts = require("./contacts");
 
 const { program } = require("commander");
 program
